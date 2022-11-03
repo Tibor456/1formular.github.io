@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    outline:none;
+    background-color:rgba(243, 237, 237, 0.849);
+}
+body {
+    width:100%;
+    background-color:white;
+}
+form{
+    background-color:white;
+    position:absolute;
+    width:300px;
+    height:200px;
+    box-shadow: 3px 5px 6px 1px #ccc ;
+    margin:300px;
+    padding-top:15px;
+    border-radius:5px;
+    padding-bottom:80px;
+    
+}
+input[type="text"], input[type="pasword"] {
+display:block;
+margin:auto;
+border:1px solid grey;
+width:250px;
+background-color:white;
+height:35px;
+padding-left:5px;
+border-radius:5px;
+}
+.button {
+    display:block;
+    margin:auto;
+    width:250px;
+    height:35px;
+    background-color:rgb(18, 82, 179);
+    color:white;
+    font-size:16px;
+    border-radius:5px;
+    border:none;
+
+}
+.z_heslo {
+    background-color:white;
+    display:inline-block;
+    margin:auto;
+    padding-left:90px;
+    color:rgb(71, 154, 231);
+    padding-bottom:15px;
+
+
+}
+.medzera {
+    border-top:1px solid rgb(179, 178, 178);
+    width:280px;
+    margin:auto
+}
+.btn2 {
+    background-color:rgb(116, 185, 13);
+    width:150px;
+    height: 40px;
+    
+}
